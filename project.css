@@ -1,0 +1,37 @@
+.main{
+    height: 80vh;
+    width: 35vw;
+    background-color:black;
+    margin: 5vh 34vw 10vh 34vw;
+
+}
+.main table{
+    height: 80%;
+    width: 100%;
+    border-top: solid black 1px;
+    border-left: solid black 1px;
+    border-bottom: solid black 1px;
+    border-right: solid black 1px;
+    border-color: black 1px;
+}
+   
+
+td{
+    text-align: center;
+    border-top: solid black 1px;
+    border-left: solid black 1px;
+    border-bottom: solid black 1px;
+}
+.top{
+    background-color: aqua;
+    font-size: x-large;
+}
+.numbers{
+       background-color: gray;
+       font-size: x-large; 
+       border-bottom: solid black 1px;
+}
+.right{
+    background-color:violet;
+    font-size: x-large;
+}
